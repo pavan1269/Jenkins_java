@@ -4,6 +4,6 @@ public class samp
 	{
 		System.out.println("Hi this is pavan");
 		System.out.println("changed new line");
-		System.out.println("changed in the git");
+		System.out.println("web hook trigger");
 	}
 }
